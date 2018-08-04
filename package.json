@@ -1,0 +1,19 @@
+{
+  "name": "drag-move",
+  "version": "1.0.0",
+  "description": "Custom drag and drop area plug-in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1053376250/drag-move.git"
+  },
+  "author": "jxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1053376250/drag-move/issues"
+  },
+  "homepage": "https://github.com/1053376250/drag-move#readme"
+}
